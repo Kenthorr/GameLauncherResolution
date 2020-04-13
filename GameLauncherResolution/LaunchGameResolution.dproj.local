@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.343,=C:\Users\Kenthor\Documents\Embarcadero\Studio\Projets\Unit7.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.084,=C:\Users\Kenthor\Documents\Embarcadero\Studio\Projets\Unit7.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.132,=C:\Users\Kenthor\Documents\Embarcadero\Studio\Projets\Unit7.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.981,C:\Users\Kenthor\Desktop\LauncherAOE2\LauncherAoE2.pas=C:\Users\Kenthor\Documents\Embarcadero\Studio\Projets\Unit7.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.981,C:\Users\Kenthor\Desktop\LauncherAOE2\LauncherAoE2.fmx=C:\Users\Kenthor\Documents\Embarcadero\Studio\Projets\Unit7.fmx</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.360,C:\Users\Kenthor\Desktop\LauncherAOE2\LaunchGameResolution.dproj=C:\Users\Kenthor\Desktop\LauncherAOE2\LaunchAoE2.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.666,C:\Users\Kenthor\Desktop\LauncherAOE2\LaunchAoE2.dproj=C:\Users\Kenthor\Documents\Embarcadero\Studio\Projets\Project7.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.950,=C:\Users\Kenthor\Documents\Embarcadero\Studio\Projets\Unit7.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
